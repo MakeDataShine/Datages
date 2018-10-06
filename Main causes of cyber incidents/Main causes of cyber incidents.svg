@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1280 1280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="footer" transform="matrix(1.19918,0,0,1.19918,5.8585,-23.4099)">
+        <g id="Source" transform="matrix(1.40921,0,0,1.40921,1124.17,-225.372)">
+            <text x="-325.856px" y="905.487px" style="font-family:'Montserrat-Bold', 'Montserrat';font-weight:700;font-size:11.835px;">Sour<tspan x="-297.429px " y="905.487px ">c</tspan>e</text>
+            <text x="-283.049px" y="905.487px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:11.835px;">: Allianz Global C<tspan x="-186.014px " y="905.487px ">o</tspan>rpor<tspan x="-153.858px -146.875px -142.295px " y="905.487px 905.487px 905.487px ">ate</tspan> &amp; Specialty</text>
+        </g>
+        <g id="Logo-Name" serif:id="Logo Name" transform="matrix(1.34501,0,0,1.34501,-11.8797,-358.649)">
+            <g id="Logo" transform="matrix(0.304791,0,0,0.304791,21.8059,753.327)">
+                <g transform="matrix(0.784717,0,0,0.793106,-64.1849,-549.287)">
+                    <path d="M116.054,1919.86L205.862,1919.86L205.862,1831C175.913,1860.76 146.079,1890.14 116.054,1919.86Z" style="fill:rgb(42,161,183);"/>
+                </g>
+                <g transform="matrix(0.774384,0,0,0.781381,-62.8377,-529.87)">
+                    <path d="M115.862,1833.63L115.862,1921L159.944,1877.43L115.862,1833.63Z" style="fill:rgb(243,80,5);"/>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,-69.3695,114.318)">
+                <text x="131.565px" y="935.442px" style="font-family:'Montserrat-Medium', 'Montserrat';font-weight:500;font-size:30px;">MAKED<tspan x="248.325px 269.235px 285.795px " y="935.442px 935.442px 935.442px ">ATA</tspan>SHINE<tspan x="404.805px 411.015px 432.255px " y="935.442px 935.442px 935.442px ">.CO</tspan>M</text>
+            </g>
+        </g>
+    </g>
+    <g id="legend2">
+        <g transform="matrix(1,0,0,1,734.176,421.355)">
+            <text x="105.824px" y="390.904px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:24px;">Business int<tspan x="250.808px 265.304px 274.736px " y="390.904px 390.904px 390.904px ">err</tspan>uption,</text>
+            <text x="105.824px" y="414.904px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:24px;">impac<tspan x="181.808px " y="414.904px ">t</tspan> on supply c<tspan x="334.928px " y="414.904px ">h</tspan>ains</text>
+        </g>
+        <g transform="matrix(1,0,0,1,734.176,521.355)">
+            <text x="105.824px" y="402.904px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:24px;">Reputation loss</text>
+        </g>
+        <g transform="matrix(1,0,0,1,734.176,621.355)">
+            <text x="105.824px" y="390.904px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:24px;">Liabilit<tspan x="185.72px " y="390.904px ">y</tspan> c<tspan x="218.336px " y="390.904px ">l</tspan>aims aft<tspan x="320.48px " y="390.904px ">e</tspan>r a data</text>
+            <text x="105.824px" y="414.904px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:24px;">br<tspan x="131.408px 145.544px 159.752px 173.072px " y="414.904px 414.904px 414.904px 414.904px ">each</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,734.176,721.355)">
+            <text x="105.824px" y="390.904px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:24px;">Reinstat<tspan x="205.304px " y="390.904px ">e</tspan>ment/<tspan x="292.208px " y="390.904px ">d</tspan>ata</text>
+            <text x="105.824px" y="414.904px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:24px;">r<tspan x="115.136px " y="414.904px ">e</tspan>st<tspan x="150.656px 165.704px 175.112px " y="414.904px 414.904px 414.904px ">ora</tspan>tion c<tspan x="256.352px " y="414.904px ">o</tspan>sts</text>
+        </g>
+    </g>
+    <g id="bar2">
+        <g transform="matrix(0.97561,0,0,0.714286,-35.122,673.926)">
+            <rect x="159" y="156" width="697" height="84" style="fill:rgb(243,80,5);"/>
+        </g>
+        <g transform="matrix(0.903874,0,0,0.714286,26.2841,773.926)">
+            <rect x="159" y="156" width="697" height="84" style="fill:rgb(243,80,5);fill-opacity:0.85098;"/>
+        </g>
+        <g transform="matrix(0.645624,0,0,0.714286,247.346,873.926)">
+            <rect x="159" y="156" width="697" height="84" style="fill:rgb(243,80,5);fill-opacity:0.701961;"/>
+        </g>
+        <g transform="matrix(0.430416,0,0,0.714286,431.564,973.926)">
+            <rect x="159" y="156" width="697" height="84" style="fill:rgb(243,80,5);fill-opacity:0.65098;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-459.72,606.695)">
+            <text x="598.28px" y="219.205px" style="font-family:'Montserrat-Medium', 'Montserrat';font-weight:500;font-size:30px;">68<tspan x="635.81px " y="219.205px ">%</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,-411.43,706.695)">
+            <text x="601.28px" y="219.205px" style="font-family:'Montserrat-Medium', 'Montserrat';font-weight:500;font-size:30px;">63<tspan x="636.65px " y="219.205px ">%</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,-231.43,806.695)">
+            <text x="601.28px" y="219.205px" style="font-family:'Montserrat-Medium', 'Montserrat';font-weight:500;font-size:30px;">45<tspan x="638.18px " y="219.205px ">%</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,-81.4303,906.695)">
+            <text x="601.28px" y="219.205px" style="font-family:'Montserrat-Medium', 'Montserrat';font-weight:500;font-size:30px;">30%</text>
+        </g>
+    </g>
+    <g id="title2" transform="matrix(1,0,0,1,420.227,613.071)">
+        <text x="-271.875px" y="56.625px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:64px;">Main C<tspan x="-50.179px " y="56.625px ">a</tspan>uses of E<tspan x="269.565px 305.021px 345.149px 388.605px " y="56.625px 56.625px 56.625px 56.625px ">cono</tspan>mic L<tspan x="603.837px " y="56.625px ">o</tspan>ss</text>
+        <text x="-128.867px" y="120.625px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:64px;">aft<tspan x="-44.643px " y="120.625px ">e</tspan>r a Cyber In<tspan x="358.941px " y="120.625px ">c</tspan>ident</text>
+    </g>
+    <g id="legend1">
+        <g transform="matrix(1,0,0,1,14.1762,-182.752)">
+            <text x="219.192px" y="402.904px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:24px;">Hac<tspan x="266.232px 280.152px " y="402.904px 402.904px ">ke</tspan>r at<tspan x="334.128px " y="402.904px ">t</tspan>ac<tspan x="371.4px " y="402.904px ">k</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,14.1762,-82.752)">
+            <text x="106.608px" y="402.904px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:24px;">Data or secur<tspan x="267.072px 273.528px 283.032px " y="402.904px 402.904px 402.904px ">ity</tspan> br<tspan x="327.912px 342.048px 356.256px 369.576px " y="402.904px 402.904px 402.904px 402.904px ">each</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,14.1762,17.248)">
+            <text x="159.096px" y="390.904px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:24px;">Malw<tspan x="223.344px 237.504px 246.816px " y="390.904px 390.904px 390.904px ">are</tspan> and other</text>
+            <text x="302.616px" y="414.904px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:24px;">viruses</text>
+        </g>
+        <g transform="matrix(1,0,0,1,14.1762,117.248)">
+            <text x="134.544px" y="390.904px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:24px;">Er<tspan x="160.032px 169.344px " y="390.904px 390.904px ">ro</tspan>rs or mistak<tspan x="324.384px " y="390.904px ">e</tspan>s b<tspan x="372.816px " y="390.904px ">y</tspan></text>
+            <text x="255.072px" y="414.904px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:24px;">emplo<tspan x="332.448px 345.096px " y="414.904px 414.904px ">ye</tspan>es</text>
+        </g>
+    </g>
+    <g id="bar1">
+        <g transform="matrix(1.033,0,0,0.714286,275.753,69.8194)">
+            <rect x="159" y="156" width="697" height="84" style="fill:rgb(250,177,12);"/>
+        </g>
+        <g transform="matrix(0.903874,0,0,0.714286,296.284,169.819)">
+            <rect x="159" y="156" width="697" height="84" style="fill:rgb(250,177,12);fill-opacity:0.85098;"/>
+        </g>
+        <g transform="matrix(0.774749,0,0,0.714286,316.815,269.819)">
+            <rect x="159" y="156" width="697" height="84" style="fill:rgb(250,177,12);fill-opacity:0.701961;"/>
+        </g>
+        <g transform="matrix(0.45911,0,0,0.714286,367.001,369.819)">
+            <rect x="159" y="156" width="697" height="84" style="fill:rgb(250,177,12);fill-opacity:0.65098;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,479.92,2.57264)">
+            <text x="600.44px" y="219.205px" style="font-family:'Montserrat-Medium', 'Montserrat';font-weight:500;font-size:30px;">72<tspan x="635.9px " y="219.205px ">%</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,390.01,102.573)">
+            <text x="600.44px" y="219.205px" style="font-family:'Montserrat-Medium', 'Montserrat';font-weight:500;font-size:30px;">63<tspan x="635.81px " y="219.205px ">%</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,300.01,202.543)">
+            <text x="599.42px" y="219.205px" style="font-family:'Montserrat-Medium', 'Montserrat';font-weight:500;font-size:30px;">54<tspan x="635.81px " y="219.205px ">%</tspan></text>
+        </g>
+        <g transform="matrix(1,0,0,1,80.0397,302.513)">
+            <text x="601.28px" y="219.205px" style="font-family:'Montserrat-Medium', 'Montserrat';font-weight:500;font-size:30px;">3<tspan x="618.29px 635.81px " y="219.205px 219.205px ">2%</tspan></text>
+        </g>
+    </g>
+    <g id="title1" transform="matrix(1,0,0,1,420.227,51.8234)">
+        <text x="-284.163px" y="56.625px" style="font-family:'Montserrat-Regular', 'Montserrat';font-size:64px;">Main C<tspan x="-62.467px " y="56.625px ">a</tspan>uses of Cyber In<tspan x="482.941px " y="56.625px ">c</tspan>idents</text>
+    </g>
+</svg>
